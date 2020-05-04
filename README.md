@@ -18,4 +18,7 @@ manual operation of motors in case of connectivity failure where
 users can control the water pump through the website or direct
 switch. In this way, a secure, conservative and automated system
 is developed solving agricultural irrigation problems.
-Index Terms—Internet of Things, Agriculture, Irrigation
+
+Index Terms—Internet of Things, Agriculture, Irrigation.
+
+You can find the code and other details in the repository
